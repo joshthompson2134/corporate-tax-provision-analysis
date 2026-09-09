@@ -3,6 +3,14 @@
 # Project Overview
 This project simulates a federal corporate income tax provision for a fictional C corporation, Peachtree Technologies, Inc. The model converts pretax book income to taxable income through book-to-tax adjustments and analyzes current and deferred tax expense, effective tax rate, and relevant tax considerations.
 
+## Dashboard
+
+The dashboard summarizes the federal tax provision, book-to-tax adjustments and key tax metrics developed in the model.
+
+![Corporate Tax Analytics Dashboard](tax-analytics-dashboard.png)
+
+
+
 # Key Analysis
 - Prepared a book-to-tax reconciliation from $900,000 of pretax book income to $865,000 of taxable income.
 - Analyzed permanent differences involving business meals and fines & penalties.
