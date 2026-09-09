@@ -16,5 +16,20 @@ This project simulates a federal corporate income tax provision for a fictional 
 # Key Results
 | Metric | Result |
 |---|---:|
-|Pretax Book Income | $900,000
-|Taxab
+|Pretax Book Income | $900,000 |
+|Taxable Income | $865,000 |
+|Current Federal Tax Expense | $181,650 |
+|Deferred Federal Tax Expense | $21,000 |
+|Total Income Tax Provision | $202,650 |
+|Effective Tax Rate | 22.52% |
+
+# Tax Research
+The project considers tax guidance related to:
+- Business meals - IRC §274 / IRS Publication 463
+- Fines and penalties - IRC  §162(f)
+- Federal corporate income tax rate - IRC §11
+- Depreciation - IRC §§167-168 / IRS Publication 946
+
+# Tools & Skills
+Microsoft Excel • Tax Provision Analysis • Book-to-Tax Reconciliation • Tax Research • Tax Compliance
+
