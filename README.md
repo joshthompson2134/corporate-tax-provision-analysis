@@ -7,7 +7,7 @@ This project simulates a federal corporate income tax provision for a fictional 
 
 The dashboard summarizes the federal tax provision, book-to-tax adjustments and key tax metrics developed in the model.
 
-![Corporate Tax Analytics Dashboard](tax-analytics-dashboard(2).png)
+![Corporate Tax Analytics Dashboard](tax-analytics-dashboard (2).png)
 
 
 
